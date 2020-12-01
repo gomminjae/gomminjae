@@ -1,5 +1,5 @@
 ### Welcome 
-* I'm minjae I'm always trying to improve.🔥
+* I'm minjae Always trying to improve.🔥
  <img src="https://img.shields.io/badge/Language-Swift-orange">
  
 <!--
