@@ -1,5 +1,5 @@
 ### Welcome 
-* calmly and steadily🔥
+* 
  <img src="https://img.shields.io/badge/Language-Swift-orange">
  
 <!--
