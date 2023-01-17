@@ -1,5 +1,5 @@
 ### Welcome 
- <img src="https://img.shields.io/badge/Language-Swift-orange">
+ <img src="https://img.shields.io/badge/Language-Swift-orange"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dr8766)](https://solved.ac/dr8766)
 <!--
