@@ -1,6 +1,6 @@
 ### Welcome 
  <img src="https://img.shields.io/badge/Language-Swift-orange">
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dr8766)](https://solved.ac/dr8766/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dr8766)](https://solved.ac/dr8766)
 <!--
 **gomminjae/gomminjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
