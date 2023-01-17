@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dr8766)](https://solved.ac/dr8766)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dr8766)](https://solved.ac/dr8766/)
