@@ -1,6 +1,16 @@
+<div align="left">
 
- <img src="https://img.shields.io/badge/Language-Swift-orange">
- <img src="https://camo.githubusercontent.com/d53709cf6998dd729c8314cc5f9ce2e6b56835c3b78c2bd73d86e2f48199f22b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5265616374697665582d4237313738433f7374796c653d666c6174266c6f676f3d526561637469766558">
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white) 
+![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
+<img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Jira"/>
+<img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX"/>
+ 
+ <br>
+  
+</div>
+
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dr8766)](https://solved.ac/dr8766)
 <!--
