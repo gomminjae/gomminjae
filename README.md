@@ -7,6 +7,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Jira"/>
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX"/>
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)
+![RxSwift](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
  
  <br>
   
