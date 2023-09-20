@@ -4,11 +4,8 @@
 ![iOS](https://img.shields.io/badge/iOS-222222?style=flat-square&logo=Apple&logoColor=white) 
 <img src="https://img.shields.io/badge/XCode-147EFB?style=flat-square&logo=xcode&logoColor=white"/><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Jira"/>
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX"/>
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
  
  <br>
