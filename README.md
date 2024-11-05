@@ -15,7 +15,7 @@
 </div>
 
  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dr8766)](https://solved.ac/dr8766)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=gommj0611)](https://solved.ac/gommj0611)
 <!--
 **gomminjae/gomminjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
