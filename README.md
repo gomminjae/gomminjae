@@ -8,7 +8,9 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase"/>
 <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat&logo=ReactiveX"/>
 ![Realm](https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=realm&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)<br>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dr8766)](https://solved.ac/dr8766)
  
  <br>
   
@@ -22,8 +24,7 @@
 />
 </a>
 
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dr8766)](https://solved.ac/dr8766)
+
 <!--
 **gomminjae/gomminjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
