@@ -17,5 +17,4 @@
 />
 </a>
 
-[![3D Model](https://example.com/static-thumbnail.png)](https://sketchfab.com/models/your-model-id/embed)
 
