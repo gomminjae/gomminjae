@@ -7,7 +7,7 @@
     gap: 20px;
   "
 >
-  <a href="https://solved.ac/dr8766">
+<!--   <a href="https://solved.ac/dr8766">
     <img
       src="http://mazassumnida.wtf/api/generate_badge?boj=dr8766"
       alt="Solved.ac Profile"
@@ -17,10 +17,10 @@
         max-width: 100%;
       "
     />
-  </a>
+  </a> -->
 
 
   <a href="https://github.com/devxb/gitanimals">
-   <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/dr8766" width="600" height="300"/></a>
+   <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/dr8766" width="100%" height="300"/></a>
   </a>
 </div>
