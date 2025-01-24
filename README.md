@@ -21,6 +21,6 @@
 
 
   <a href="https://github.com/devxb/gitanimals">
-   <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/dr8766" width="100%" height="300"/></a>
+   <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/dr8766" width="600" height="300"/></a>
   </a>
 </div>
