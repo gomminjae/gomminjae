@@ -21,15 +21,6 @@
 
 
   <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/gomminjae"
-      alt="Gitanimals"
-      style="
-        height: 200px;
-        object-fit: cover;
-        border-radius: 8px;
-        max-width: 100%;
-      "
-    />
+   <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/dr8766" width="600" height="300"/></a>
   </a>
 </div>
